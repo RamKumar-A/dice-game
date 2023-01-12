@@ -1,0 +1,26 @@
+body{
+  background: #ebcaba;
+}
+.container{
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+
+}
+.img{
+  width: 80%;
+}
+h1{
+  font-size: 5em;
+  color: aqua;
+  text-shadow:  5px 2px  red ;
+}
+p{
+  font-size: 3em;
+  color: black;
+  text-shadow: 5px 5px aqua;
+}
